@@ -1,0 +1,70 @@
+{
+  "responseHeader":{
+	"status":0,
+	"QTime":13},
+  "response":{"numFound":0,"start":0,"docs":[]
+  },
+  "spellcheck":{
+	"suggestions":[
+	  "cittion",{
+		"numFound":10,
+		"startOffset":0,
+		"endOffset":7,
+		"origFreq":0,
+		"suggestion":[{
+			"word":"citation",
+			"freq":83652},
+		  {
+			"word":"citt ion",
+			"freq":14218},
+		  {
+			"word":"caution",
+			"freq":106},
+		  {
+			"word":"cit tion",
+			"freq":53},
+		  {
+			"word":"citations",
+			"freq":46},
+		  {
+			"word":"ception",
+			"freq":3},
+		  {
+			"word":"caption",
+			"freq":2},
+		  {
+			"word":"cistron",
+			"freq":1},
+		  {
+			"word":"cotation",
+			"freq":1},
+		  {
+			"word":"critton",
+			"freq":1}]}],
+	"correctlySpelled":false,
+	"collations":[
+	  "collation",{
+		"collationQuery":"citation",
+		"hits":83652,
+		"misspellingsAndCorrections":[
+		  "cittion","citation"]},
+	  "collation",{
+		"collationQuery":"(citt ion)",
+		"hits":14224,
+		"misspellingsAndCorrections":[
+		  "cittion","citt ion"]},
+	  "collation",{
+		"collationQuery":"caution",
+		"hits":106,
+		"misspellingsAndCorrections":[
+		  "cittion","caution"]},
+	  "collation",{
+		"collationQuery":"(cit tion)",
+		"hits":76,
+		"misspellingsAndCorrections":[
+		  "cittion","cit tion"]},
+	  "collation",{
+		"collationQuery":"citations",
+		"hits":46,
+		"misspellingsAndCorrections":[
+		  "cittion","citations"]}]}}

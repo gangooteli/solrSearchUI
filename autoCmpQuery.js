@@ -34,13 +34,13 @@ $(document).ready(function(){
 				dataType: 'jso',
 				success: function(result){
 						//console.log(result['suggest']['businessSuggester'][tString]["suggestions"]);
-						suggestions = result['suggest']['businessSuggester'][tString]["suggestions"];
+						suggestions = result['spellcheck']['suggestions'][tString]["suggestions"];
 						//ul = $('ul');
 						table.empty();
 						for (i = 0; i < suggestions.length; i++) {
 							console.log(suggestions[i]['term']);
 							tr = $('<tr></tr>');
-							tr.append($('<td>' + suggestions[i]['term'] + '</td>'));
+							tr.append($('<td>' + suggestions[i]['word'] + '</td>'));
 							console.log(tr);
 							tr.appendTo(table);
 						}
