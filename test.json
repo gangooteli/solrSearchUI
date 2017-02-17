@@ -1,0 +1,48 @@
+{
+	"responseHeader":{
+	"status":0,
+	"QTime":131},
+	"suggest":{"businessSuggester":{
+	  "list of c":{
+		"numFound":10,
+		"suggestions":[{
+			"term":"List of highest-grossing films in Canada and the United States",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of tenants in One World Trade Center",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of national capitals in alphabetical order",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of countries by national capital and largest cities",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of cocktails",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of cities in Sardinia",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of castles in England",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of compositions by Giuseppe Verdi",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of Welsh-language poets (6th century to c. 1600)",
+			"weight":0,
+			"payload":""},
+		  {
+			"term":"List of chess variants",
+			"weight":0,
+			"payload":""}]}}}
+}
